@@ -1,8 +1,7 @@
-
-github "tidepool-org/LoopKit" "override-mode" 
-github "LoopKit/CGMBLEKit" == 3.0
+github "kdisimone/LoopKit" "override-mode" 
+github "kdisimone/CGMBLEKit" "override-mode"
 github "i-schuetz/SwiftCharts" == 0.6.2
-github "LoopKit/dexcom-share-client-swift" == 1.0
-github "LoopKit/G4ShareSpy" == 1.0
-github "ps2/rileylink_ios" == 2.1.0
+github "kdisimone/dexcom-share-client-swift" "override-mode"
+github "kdisimone/G4ShareSpy" "override-mode"
+github "kdisimone/rileylink_ios" "override-mode"
 github "LoopKit/Amplitude-iOS" "decreepify"
